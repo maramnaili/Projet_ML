@@ -9,11 +9,11 @@ Ce projet vise à appliquer des techniques de **Machine Learning** sur le datase
  Développer un modèle de classification capable de distinguer les individus avec un Trouble du Spectre de l'Autisme (ASD) des individus au développement typique (Control).
 
 ## Dataset
-Base de données ABIDE
-Taille : 1,112 sujets
-Variables : 106 features
-Classes :
-1 = ASD (Autism Spectrum Disorder)
+Base de données ABIDE  
+Taille : 1,112 sujets  
+Variables : 106 features  
+Classes :  
+1 = ASD (Autism Spectrum Disorder)  
 2 = Control (Développement typique)
 
 Le travail comprend :
